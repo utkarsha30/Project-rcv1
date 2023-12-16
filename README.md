@@ -12,7 +12,7 @@ The project includes two main components:
    - This notebook was run on Google Colab and focuses on models trained on a subset of 1,000 data samples. It is designed for ease of access and collaborative exploration.
 
 2. **Jupyter Notebook (Local Machine):**
-   - File: https://github.com/utkarsha30/Project-rcv1/blob/main/Kshirsagar_Utkarsha.ipynb
+   - File: https://github.com/utkarsha30/Project-rcv1/blob/main/notebook2_10000samples.ipynb
    - This notebook was run locally and includes models trained on a subset of 10,000 data samples. It provides insights into model performance and analysis.
 
 ## Models Explored
@@ -33,6 +33,6 @@ git clone https://github.com/utkarsha30/Project-rcv1.git
 
 Access the notebooks:
 
-Google Colab Notebook: https://colab.research.google.com/drive/1-SRh888IdL0QTw6x74N_SgQ82JnfQByT?usp=sharing
+Notebook1_1000samples(Google Colab Notebook): https://colab.research.google.com/drive/1-SRh888IdL0QTw6x74N_SgQ82JnfQByT?usp=sharing
 
-Jupyter Notebook: https://github.com/utkarsha30/Project-rcv1/blob/main/Kshirsagar_Utkarsha.ipynb
+Notebook2_10000samples(Jupyter Notebook): https://github.com/utkarsha30/Project-rcv1/blob/main/notebook2_10000samples.ipynb
